@@ -1,5 +1,7 @@
 # Customer Spend Prediction & Platform Optimization
 
+This project analyzes customer engagement data to predict annual customer spending and identify the behavioral factors that drive customer value. Using regression modeling, the analysis demonstrates that customer retention, particularly membership duration, has a stronger influence on spending than website engagement alone. The findings provide actionable recommendations for improving customer lifetime value and marketing strategy.
+
 ## 1. Business Context
 
 An e-commerce company seeks to determine whether to prioritize improvements in its mobile app or website experience to increase customer spending.
